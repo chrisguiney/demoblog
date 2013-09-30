@@ -1,0 +1,19 @@
+body {
+    padding-top: 60px;
+}
+
+.vote-results span {
+    padding-right: 4px;
+}
+
+.upvotes {
+    color: green;
+}
+
+.downvotes {
+    color: red;
+}
+
+.netvotes {
+    color: blue;
+}
